@@ -458,4 +458,4 @@ MAIN_VIEW.addEventListener("mousemove", (mouse_event) => {
 
 updateNavbar();
 
-createBrowserWindowTo("../index.html", 1000, 600);
+createBrowserWindowTo("https://myaumyau.dev", 1000, 600);
